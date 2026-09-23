@@ -13,4 +13,4 @@ Caso 3 del laboratorio de Ingeniería de Software I.
 - Labels `R1` / `R2` / `R3`: release al que pertenece cada historia
 
 ## Mapa de historias
-El mapa en draw.io se encuentra en: 
+El mapa en draw.io se encuentra en: https://drive.google.com/file/d/1nu6MuIPSbPdjxT5VK8ysUv2TmQ3b3Cwy/view?usp=sharing
